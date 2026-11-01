@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome to my GitHub page!👋
+
+<img src="koi/koi.gif" width="256" alt="My koi">
 
 <!--
 **RusFortunat/RusFortunat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
