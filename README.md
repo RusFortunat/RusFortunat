@@ -1,5 +1,7 @@
 ## Welcome to my GitHub page!👋
 
+The koi fishy size & prowlnes reflects my activity here. Credit goes to [yalongwastaken](https://github.com/yalongwastaken/git-koi/tree/main).
+
 <img src="koi/koi.gif" width="256" alt="My koi">
 
 <!--
