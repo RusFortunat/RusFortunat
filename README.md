@@ -1,4 +1,4 @@
-## Welcome to my GitHub page!👋
+## Howdy!👋 Welcome to my GitHub page!
 
 The koi fishy size & prowess reflects my activity here. Credit goes to [yalongwastaken](https://github.com/yalongwastaken/git-koi/tree/main).
 
